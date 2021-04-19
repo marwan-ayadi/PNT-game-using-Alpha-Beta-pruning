@@ -1,0 +1,53 @@
+
+input1:
+    TakeTokens 3 0 0
+input2:
+    TakeTokens 7 1 1 2
+input3:
+    TakeTokens 10 3 4 2 6 4
+input 4:
+    TakeTokens 8 3 3 1 2 0 
+input 5:
+    TakeTokens 10 5 3 1 8 4 2 0 
+
+
+** OUTPUT 1 **
+Move: 1 
+Value: -1.0
+Number of Nodes Visited: 4
+Number of Nodes Evaluated: 2
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.5
+
+** OUTPUT 2 **
+Move: 5 
+Value: -1.0
+Number of Nodes Visited: 12
+Number of Nodes Evaluated: 7
+Max Depth Reached: 2
+Avg Effective Branching Factor: 2.2
+
+** OUTPUT 3 **
+Move: 1 
+Value: 1.0
+Number of Nodes Visited: 25
+Number of Nodes Evaluated: 13
+Max Depth Reached: 4
+Avg Effective Branching Factor: 2.0
+
+** OUTPUT 4 **
+Move: 6
+Value:-1.0
+Number of Nodes Visited: 6
+Number of Nodes Evaluated: 3
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.7
+
+** OUTPUT 5 **
+Move: 6
+Value: -1.0
+Number of Nodes Visited: 4
+Number of Nodes Evaluated: 2
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.5
+

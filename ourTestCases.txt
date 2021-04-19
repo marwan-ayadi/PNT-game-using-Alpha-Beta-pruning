@@ -1,0 +1,121 @@
+                    TEST CASE #1 --> python3 A3.py 3 0 0 
+
+
+Move: 1
+Value: -1.0
+Number of Nodes Visited: 4
+Number of Nodes Evaluated: 2
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.5
+
+
+Execution time: 4.696846008300781e-05 s
+------------------------------------------------------------------
+                TEST CASE #2 --> python3 A3.py 7 1 1 2
+
+Move: 5
+Value: -1.0
+Number of Nodes Visited: 12
+Number of Nodes Evaluated: 7
+Max Depth Reached: 2
+Avg Effective Branching Factor: 2.2
+
+
+Execution time: 7.414817810058594e-05 s
+------------------------------------------------------------------
+                TEST CASE #3 --> python3 A3.py 10 3 4 2 6 4 
+
+Move: 1
+Value: 1.0
+Number of Nodes Visited: 25
+Number of Nodes Evaluated: 13
+Max Depth Reached: 4
+Avg Effective Branching Factor: 2.0
+
+
+Execution time: 9.107589721679688e-05 s
+-----------------------------------------------------------------------------------
+                TEST CASE #4 --> python3 A3.py 8 3 3 1 2 0
+
+Move: 6
+Value: -1.0
+Number of Nodes Visited: 6
+Number of Nodes Evaluated: 3
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.7
+
+
+Execution time: 4.673004150390625e-05 s
+---------------------------------------------------------------------------------------
+                TEST CASE #5 --> python3 A3.py 10 5 3 1 8 4 2 0 
+
+
+Move: 6
+Value: -1.0
+Number of Nodes Visited: 4
+Number of Nodes Evaluated: 2
+Max Depth Reached: 2
+Avg Effective Branching Factor: 1.5
+
+
+Execution time: 3.0994415283203125e-05 s
+------------------------------------------------------------------------------------
+                TEST CASE #6 --> python3 A3.py 4 0 0 
+
+Move: 1
+Value: -1.0
+Number of Nodes Visited: 7
+Number of Nodes Evaluated: 3
+Max Depth Reached: 3
+Avg Effective Branching Factor: 1.5
+
+
+Execution time: 3.910064697265625e-05 s
+------------------------------------------------------------------------------------------------------------
+                TEST CASE #7 --> python3 A3.py 5 1 1 2 
+
+Move: 3
+Value: -1.0
+Number of Nodes Visited: 7
+Number of Nodes Evaluated: 4
+Max Depth Reached: 2
+Avg Effective Branching Factor: 2.0
+
+
+Execution time: 3.910064697265625e-05 s
+------------------------------------------------------------------------------------------------------------
+                TEST CASE #8 --> python3 A3.py 10 3 3 6 2 4 
+
+Move: 1
+Value: 1.0
+Number of Nodes Visited: 51
+Number of Nodes Evaluated: 27
+Max Depth Reached: 4
+Avg Effective Branching Factor: 2.1
+
+
+Execution time: 0.00016427040100097656 s
+------------------------------------------------------------------------------------------------------------
+                TEST CASE #9 ---> python3 A3.py 9 4 1 4 2 3
+
+Move: 6
+Value: 1.0
+Number of Nodes Visited: 3
+Number of Nodes Evaluated: 2
+Max Depth Reached: 1
+Avg Effective Branching Factor: 2.0
+
+
+Execution time: 4.100799560546875e-05 s
+------------------------------------------------------------------------------------------------------------
+                TEST CASE #10 ---> python3 A3.py 7 0 0 
+
+Move: 1
+Value: -1.0
+Number of Nodes Visited: 44
+Number of Nodes Evaluated: 17
+Max Depth Reached: 6
+Avg Effective Branching Factor: 1.6
+
+
+Execution time: 0.0001361370086669922 s

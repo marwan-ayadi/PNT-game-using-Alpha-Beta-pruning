@@ -5,7 +5,7 @@
 [Raffi Alan Bezirjian](https://github.com/raffialan) (29538690) - 
 
 
-Execution example
-    ```bash
-python pnt.py 3 0 0
+Running example
+   ```bash
+ python .\pnt.py 3 0 0
 ```

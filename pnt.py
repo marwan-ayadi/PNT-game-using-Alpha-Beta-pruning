@@ -328,6 +328,17 @@ if __name__ == '__main__':
     print(value)
     print(l)
     res=alphabeta(fm,lm,d,d,float('-inf'),float('inf'),value,lm,l,c,ch,counter,visit,MDepth,sumc)
+    if res!=1 and res !=-1:
+        if value==True:
+            if(d%2==0):
+                res=-1
+            else:
+                res=1
+        else:
+            if(d%2==0):
+                res=1
+            else:
+                res=-1
     print("#################")
     print("OutPut:")
     print("#################")
